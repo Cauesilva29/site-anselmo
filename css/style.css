@@ -1,0 +1,114 @@
+@charset "UTF-8";
+
+    h1{
+        text-align: center;
+    }
+
+    h2{
+        text-align: center;
+    }
+
+    a:link{
+        color:rgb(9, 131, 0); ;
+        text-decoration: none;
+    }
+
+    a:visited{
+        color: rgb(9, 131, 0);
+    }
+
+    a:hover{
+        text-decoration: underline;
+    }
+
+    #links{
+        width: 98%;
+        height: 60px;
+        display: flex;
+        justify-content: space-around;
+        background-color: antiquewhite;
+        margin-top: 10px;
+        margin-left: 17px;
+        box-shadow: 0 0 10px black;
+        
+        
+       
+    }
+
+    .inicio{
+        margin-top: 12px;
+        height: 30px;
+        width: 120px;
+        text-align: center;
+        border-radius: 7px;
+        padding-top: 9px;
+        font-size: 20px;
+        
+
+    }
+
+    .sobre{
+        margin-top: 12px;
+        height: 30px;
+        width: 120px;
+        text-align: center;
+        border-radius: 7px;
+        padding-top: 9px;
+        font-size: 20px;
+
+
+    }
+
+    .cadastrase{
+        margin-top: 12px;
+        font-size: 20px;
+        height: 30px;
+        width: 120px;
+        text-align: center;
+        border-radius: 7px;
+        padding-top: 9px;
+    }
+
+    .contatos{
+        margin-top: 12px;
+        height: 30px;
+        width: 120px;
+        text-align: center;
+        border-radius: 7px;
+        padding-top: 9px;
+        font-size: 20px;
+    }
+
+    .nubrasil{
+        margin-top: 12px;
+        height: 30px;
+        width: 120px;
+        text-align: center;
+        border-radius: 7px;
+        padding-top: 9px;
+        font-size: 20px;
+    }
+    
+    .imgprinci{
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .textoprinci{
+        margin-top: 30px;
+        margin-left: 5px;
+        text-align: justify;
+    }
+
+    .container{
+        width: 350px;
+        height: 500px;
+        border-radius: 7px;
+        margin-top: 30px;
+        margin-left: 600px;
+        background-color: antiquewhite;
+        box-shadow: 0 0 15px black;
+        opacity: 0.9;
+    }
+
+    
